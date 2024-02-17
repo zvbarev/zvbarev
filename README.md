@@ -15,7 +15,7 @@
 * Машинное обучение: библиотеки Scikit-learn, XGBoost
 
 ## Репозитории:
-[yandex_practicum_data_analyst](yandex_practicum_data_analyst/)
+[yandex_practicum_data_analyst](../../yandex_practicum_data_analyst/)
 
 
 ## Проекты:
