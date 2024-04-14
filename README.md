@@ -6,7 +6,7 @@
 
 ## Основные навыки и инструменты:
 * Языки: Python, SQL
-* Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodels
+* Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodels, ydata_profiling, DuckDB
 * Визуализация: Matplotlib, Plotly, Seaborn, Wordcloud
 * Построение дашбордов: Tableau
 * Метрики юнит-экономики, когортный анализ
